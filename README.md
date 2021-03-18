@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lmonico
+- 👀 I’m interested in using technology to fight climate change
+- 🌱 I’m currently learning python to access web data
