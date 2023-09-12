@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lmonico
-- 👀 I’m interested in using technology to fight climate change
-- 🌱 I’m currently learning continuous integration with Travis CI and Docker
+- 👀 I’m interested in using technology to solve problems
+- 🌱 I’m currently learning React with next.js
