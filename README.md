@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lmonico
-- 👀 I’m interested in using technology to solve problems
-- 🌱 I’m currently learning React with next.js
+- 👀 I’m interested in using technology to create games and lessen the impact of climate change.
+- 🌱 I’m currently learning game development with libGDX and Java 21.
