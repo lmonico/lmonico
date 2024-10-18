@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lmonico
-- 👀 I’m interested in using technology to create games and lessen the impact of climate change.
-- 🌱 I’m currently learning game development with libGDX and Java 21.
+- 👀 I’m interested in learning new technologies to solve complex problems for sustainability.
+- 🌱 I’m currently learning TypeScript and React.
